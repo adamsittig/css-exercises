@@ -1,0 +1,17 @@
+div p {
+    background-color: #ff0;
+    color: #f00;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* 
+The below example will work as well because the "text" class is a child of div: 
+
+div .text {
+    background-color: #ff0;
+    color: #f00;
+    font-size: 20px;
+    text-align: center;
+}
+*/
